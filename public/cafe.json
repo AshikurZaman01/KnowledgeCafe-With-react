@@ -1,0 +1,86 @@
+[
+  {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1529892485617-25f63cd7b1e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENhZmUlMjBNb2NoYXxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Cafe Mocha",
+      "tags": ["Cozy", "Romantic", "Quiet"],
+      "author": {
+          "name": "John Doe",
+          "image": "https://plus.unsplash.com/premium_photo-1675130119373-61ada6685d63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29ufGVufDB8fDB8fHww",
+          "date": "Mar 5",
+          "postedTime": "5 minutes ago"
+      }
+  },
+  {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U3VubnklMjBTaWRlJTIwQ2FmZXxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Sunny Side Cafe",
+      "tags": ["Sunny", "Open-air", "Family-friendly"],
+      "author": {
+          "name": "Jane Smith",
+          "image": "https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGVyc29ufGVufDB8fDB8fHww",
+          "date": "Mar 6",
+          "postedTime": "10 minutes ago"
+      }
+  },
+  {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1647416795687-e7e7ff7550e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFVyYmFuJTIwQnJld3xlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Urban Brew",
+      "tags": ["Modern", "Trendy", "Hip"],
+      "author": {
+          "name": "Alice Brown",
+          "image": "https://images.unsplash.com/photo-1521566652839-697aa473761a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D",
+          "date": "Mar 7",
+          "postedTime": "15 minutes ago"
+      }
+  },
+  {
+      "id": 4,
+      "image": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEdyZWVuJTIwTGVhZiUyMENhZmV8ZW58MHx8MHx8fDA%3D",
+      "title": "Green Leaf Cafe",
+      "tags": ["Organic", "Healthy", "Eco-friendly"],
+      "author": {
+          "name": "Bob White",
+          "image": "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D",
+          "date": "Mar 8",
+          "postedTime": "20 minutes ago"
+      }
+  },
+  {
+      "id": 5,
+      "image": "https://images.unsplash.com/photo-1618670708336-2df80fdd0ecb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UmV0cm8lMjBEaW5lcnxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Retro Diner",
+      "tags": ["Retro", "Classic", "Nostalgic"],
+      "author": {
+          "name": "Cathy Green",
+          "image": "https://media.istockphoto.com/id/1783956687/photo/portrait-of-young-asian-business-woman-in-outdoors.webp?b=1&s=170667a&w=0&k=20&c=xDwSFJbnaDhpNdaNFSXlsa6VNlVXCVKapnvYecUPoQk=",
+          "date": "Mar 9",
+          "postedTime": "25 minutes ago"
+      }
+  },
+  {
+      "id": 6,
+      "image": "https://plus.unsplash.com/premium_photo-1668471822147-441bc5aaff67?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmludGFnZSUyMENhZmV8ZW58MHx8MHx8fDA%3D",
+      "title": "Vintage Coffee",
+      "tags": ["Vintage", "Charming", "Historic"],
+      "author": {
+          "name": "David Black",
+          "image": "https://images.unsplash.com/photo-1594201510970-f549e4a6e96d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJveXN8ZW58MHx8MHx8fDA%3D",
+          "date": "Mar 10",
+          "postedTime": "30 minutes ago"
+      }
+  },
+  {
+      "id": 7,
+      "image": "https://images.unsplash.com/photo-1634028479278-f2f111454fe0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEFydGlzYW4lMjBDYWZlfGVufDB8fDB8fHww",
+      "title": "Artisan Cafe",
+      "tags": ["Artisan", "Handcrafted", "Unique"],
+      "author": {
+          "name": "Emma Blue",
+          "image": "https://images.unsplash.com/photo-1592046285097-6cdf4daf0d69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym95c3xlbnwwfHwwfHx8MA%3D%3D",
+          "date": "Mar 11",
+          "postedTime": "35 minutes ago"
+      }
+  }
+]
